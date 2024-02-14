@@ -95,7 +95,7 @@ const RecoveryPage = ({ navigation }) => {
 
         <Image
           style={{width: 300, height: 200}}
-          source={require('./melogo.png')}
+          source={require('../melogo.png')}
         />
       <Text style={styles.header}>Recover Account</Text>
       <Text style={styles.title}>Enter email to receive a link</Text>
