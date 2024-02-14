@@ -15,7 +15,7 @@ const Landing = ({ navigation }) => {
            
             <Image
                 style={{width: 300, height: 200}}
-                source={require('./memo.png')}
+                source={require('../memo.png')}
             />
 
             <Text style={styles.title}>Instant. Unfolded. Memoir</Text>
