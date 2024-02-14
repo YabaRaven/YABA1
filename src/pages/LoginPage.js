@@ -11,7 +11,7 @@ const LoginPage = ({ navigation }) => {
 
         <Image
           style={{width: 300, height: 200}}
-          source={require('./melogo.png')}
+          source={require('../melogo.png')}
         />
         <Text style={styles.header}>LOGIN</Text>
         <Text style={styles.title}>Please login to continue using our app</Text>
