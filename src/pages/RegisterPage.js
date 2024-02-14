@@ -11,7 +11,7 @@ const RegisterPage = ({ navigation }) => {
         
         <Image
           style={{width: 300, height: 200}}
-          source={require('./melogo.png')}
+          source={require('../melogo.png')}
         />
         <Text style={styles.header}>Sign Up Now</Text>
         <Text style={styles.title}>Please fil the details and create account</Text>
